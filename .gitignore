@@ -1,0 +1,14 @@
+bin/
+gen/
+obj/
+libs/*/*.so
+app/build/*
+.gradle/
+build/
+local.properties
+*~
+~*
+*#*#
+app/src/main/res/values/booleans.xml
+app/src/main/res/values/values.xml
+*/build/
