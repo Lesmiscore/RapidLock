@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RapidLocker</string>
+    <string name="lockNow">Lock the device now</string>
+    <string name="permRequired">Permissions required to lock</string>
 </resources>
